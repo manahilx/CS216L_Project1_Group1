@@ -82,7 +82,7 @@ Main Menu
 
 GitHub Repository
 Repository:  
-[Add your GitHub repository link here]
+https://github.com/manahilx/Student_record_system
 
 License
 This project is licensed under the MIT License.
